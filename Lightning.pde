@@ -12,7 +12,7 @@ void setup(){
 void draw(){
   //night screen
   fill(#000000);
-  rect(-100,0,1000,700);
+  rect(-100,-100,1000,1000);
   //wand
   stroke(#4D2500);
   fill(#964B00); 
